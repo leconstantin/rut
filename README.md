@@ -1,1 +1,1 @@
-# rut project !
+# rut projects !
